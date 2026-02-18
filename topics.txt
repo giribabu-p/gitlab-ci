@@ -1,0 +1,33 @@
+- Jobs/stages in Gitlab CI
+-What is artifact in GitLab CI
+- How to use artifact in GitLab CI
+- Generate Junit reports for Java Maven project using GitLab CI
+- Running jobs in parallel
+- Running jobs in background
+- GitLab RUnner and its installation
+- Build Java Project using Maven in GitLab CI
+- How to Build Java Project using Gradle in GitLab CI | GitLab CI Java Gradle
+- Java Code Coverage(JaCoCo) Report using GitLab CI for Java Maven project
+- Integrate SonarQube for Java Maven Project using GitLab Pipeline
+- SonarQube Integration with GitLab CI for Java Gradle Project | SonarQube Java
+
+- Sonarqube Integration for Node JS Project using GitLab CI Pipeline
+- Sonarqube Integration for Python Project using GitLab CI
+- How to Build and Push Docker Image to AWS ECR | GitLab CI CD Docker AWS
+
+- How to Build Docker Image and Push to DockerHub using GitLab CI
+- secret management in GitLab
+- Multi stage - multi job Pipeline with dependency management
+- Applying terrraform code via GitLab Pipeline
+- Use of rules & needs in Pipeline
+- Optimise pipeline - Include local template (just like using one single pipeline code for all the microservices)
+- Use of !Reference to Optimise the pipeline
+- Trigger manual pipeline - learn cache, retry, pull and push strategy
+- AWS EKS deployment via pipeline 
+- pipeline triggers / retrying failed jobs / pipeline schedules
+- Using caches to optimize the build speed.
+- cache vs Artifacts
+- before_script and after_script
+- disabling jobs
+- anchors
+- creating job templates 
